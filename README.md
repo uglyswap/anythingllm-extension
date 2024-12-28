@@ -8,15 +8,6 @@
   Seamlessly integrate Q LLM into Google Chrome.
 </p>
 
-<p align="center">
-  <a href="#features">Features</a> •
-  <a href="#installation">Installation</a> •
-  <a href="#development">Development</a> •
-  <a href="#usage">Usage</a> •
-  <a href="#contributing">Contributing</a> •
-  <a href="#license">License</a>
-</p>
-
 ## Features
 
 - 🔗 Connect to your Q LLM instance with a simple connection string or automatic browser extension registration
